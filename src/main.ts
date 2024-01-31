@@ -1,5 +1,4 @@
 import { createApp } from "vue";
-import "./style.css";
 import AdvancedMap from "./components/AdvancedMap.vue";
 import AdvancedListing from "./components/AdvancedListing.vue";
 import App from "./App.vue";
